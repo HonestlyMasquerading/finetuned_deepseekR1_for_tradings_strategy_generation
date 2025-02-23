@@ -1,0 +1,1 @@
+# finetuned_deepseekR1_for_tradings_strategy_generation
